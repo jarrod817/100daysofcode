@@ -192,3 +192,54 @@ def combine_state_names_and_abbreviations():
 
 
 
+# numlist = [1,2,3,4,5]
+# print(numlist)
+# numlist.reverse()
+# print(numlist)
+# numlist.sort()
+# print(numlist)
+# for num in numlist:
+#     print(str(num))
+# mystring = "Jarrod"
+# list(mystring)
+# l = list(mystring)
+# print(l[0])
+# print(l.pop())
+# print(l)
+# l.insert(5,"d")
+# print(l)
+# del l[0]
+# print(l)
+# l.pop(1)
+# print(l)
+# l.append('s')
+# print(l)
+# mystring = "Jarrod"
+# l = list(mystring)
+# t = tuple(mystring)
+# print(l, t)
+# l[0]= "t"
+# # immutable -> t[0] = "t"
+# for let in t:
+#     print (let)
+#
+# pybytes = {"jarrod": 33, "Sarah": 30 }
+# print(pybytes)
+# people = {}
+# people["Jarrod"] = 33
+# print(people)
+# people["Sarah"] = 30
+# print(people.keys())
+# print(people.values())
+# print(people.items())
+# for keys in pybytes.keys():
+#     print(keys)
+# for keys,values in pybytes.items():
+#     print("Keys:{}  Values:{}".format(keys, values))
+#
+# l =list("Jarrod")
+# n = [1,2,3,4,5,6]
+# for values in n:
+#     people[values] = people.get(values,values+1)
+#
+# print(people.items())
