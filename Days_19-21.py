@@ -20,8 +20,7 @@ def main():
             print("Use CAUTION Yellow light")
             sleep(1.5)
         elif start == "Green":
-            print(
-                "Go before the people behind you start to think you're texting. You have {} seconds".format(rg_timer()))
+            print("Go before the people behind you start to think you're texting. You have {} seconds".format(rg_timer()))
             sleep(rg_timer())
 
 
